@@ -1,0 +1,21 @@
+div {
+    display:flex;
+    justify-content: center;
+}
+table {
+    background-color: antiquewhite;
+    height: 200px;
+    width: 400px;
+}
+table thead {
+    background-color: rgb(132, 226, 146);
+}
+table tbody tr {
+    background-color: rgb(160, 226, 19);
+}
+h1 {
+    text-align: center;
+}
+td {
+    padding: 10px;
+}
